@@ -1,0 +1,23 @@
+[
+    { "icon": "american-football", "title": "Action Sheet", "url": "/action-sheet" },
+    { "icon": "logo-apple-appstore", "title": "Alert", "url": "/alert" },
+    { "icon": "beaker", "title": "Avatar", "url": "/avatar" },
+    { "icon": "radio-button-on", "title": "Botones", "url": "/botones" },
+    { "icon": "card", "title": "Cards", "url": "/cards" },
+    { "icon": "checkbox",  "title": "CheckBox", "url": "/checkbox" },
+    { "icon": "calendar", "title": "Data", "url": "/date-time" },
+    { "icon": "car", "title": "Fabs", "url": "/fab" },
+    { "icon": "grid", "title": "Grid - Rows", "url": "/grid" },
+    { "icon": "infinite", "title": "Infinite Scroll", "url": "/infinite-scroll" },
+    { "icon": "hammer", "title": "Input - Forms", "url": "/input" },
+    { "icon": "list", "title": "Listas", "url": "/list" },
+    { "icon": "refresh-circle", "title": "Loading", "url": "/loading" },
+    { "icon": "phone-portrait", "title": "Modal", "url": "/modal" },
+    { "icon": "tablet-portrait", "title": "Popover", "url": "/popover" },
+    { "icon": "code-working", "title": "Progressbar y Range", "url": "/progress-bar" },
+    { "icon": "refresh", "title": "Refresher", "url": "/refresher" },
+    { "icon": "search", "title": "Searchbar", "url": "/searchbar" },
+    { "icon": "copy", "title": "Segment", "url": "/segment" },
+    { "icon": "albums", "title": "Slides", "url": "/slides" },
+    { "icon": "cog", "title": "Tabs", "url": "/tabs/account" }
+  ]

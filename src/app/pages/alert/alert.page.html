@@ -1,0 +1,49 @@
+<app-header name="Alert Page"></app-header>
+
+<ion-content>
+
+    <!-- En algun momento sabré cómo hacer esto :-( -->
+    <!-- <ion-button
+        *ngFor="let b of botones"
+        (click)="b.accion()"
+        expand="block">
+        {{ b.title }} // {{ b.accion }}
+    </ion-button> -->
+    
+    <ion-button        
+        (click)="presentAlert()"
+        expand="block">
+        presentAlert       
+    </ion-button>
+    
+    <ion-button
+        (click)="presentAlertMultipleButtons()"
+        expand="block">
+        presentAlertMultipleButtons
+    </ion-button>
+    <ion-button
+        (click)="presentAlertConfirm()"
+        expand="block">
+        presentAlertConfirm
+    </ion-button>
+    <ion-button
+        (click)="presentAlertPrompt()"
+        expand="block">
+        presentAlertPrompt
+    </ion-button>
+    <ion-button
+        (click)="presentAlertRadio()"
+        expand="block">
+        presentAlertRadio
+    </ion-button>
+    <ion-button
+        (click)="presentAlertCheckbox()"
+        expand="block">
+        presentAlertCheckbox
+    </ion-button>  
+    
+    
+
+
+
+</ion-content>

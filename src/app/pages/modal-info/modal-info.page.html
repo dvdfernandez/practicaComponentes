@@ -1,0 +1,16 @@
+<ion-header no-border>
+  <ion-toolbar>
+    <ion-title>{{ firstName }} {{ lastName }} ({{ country }})</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-button (click)="dismissWithout()" color="primary" expand="full">
+    Close without arguments
+  </ion-button>
+
+  <ion-button (click)="dismissWith()" color="secondary" expand="full">
+    Close with arguments
+  </ion-button>
+
+</ion-content>

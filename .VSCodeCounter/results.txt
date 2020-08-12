@@ -1,0 +1,104 @@
+Date : 2020-08-10 16:52:06
+Directory : d:\02Programacion\06Ionic5\3-componentes
+Total : 60 files,  15368 codes, 211 comments, 268 blanks, all 15847 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          9 |     14,222 |         81 |          5 |     14,308 |
+| TypeScript |         31 |        790 |         81 |        167 |      1,038 |
+| SCSS       |          9 |        182 |         37 |         47 |        266 |
+| HTML       |          8 |        121 |          8 |         43 |        172 |
+| JavaScript |          2 |         52 |          4 |          5 |         61 |
+| XML        |          1 |          1 |          0 |          1 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |         60 |     15,368 |        211 |        268 |     15,847 |
+| e2e                                                                                                |          4 |         57 |          2 |         11 |         70 |
+| e2e\src                                                                                            |          2 |         20 |          0 |          7 |         27 |
+| src                                                                                                |         47 |      1,074 |        126 |        251 |      1,451 |
+| src\app                                                                                            |         37 |        842 |         14 |        179 |      1,035 |
+| src\app\component                                                                                  |          5 |         53 |          1 |         17 |         71 |
+| src\app\component\header                                                                           |          4 |         38 |          0 |         14 |         52 |
+| src\app\pages                                                                                      |         26 |        664 |         11 |        137 |        812 |
+| src\app\pages\action-sheet                                                                         |          5 |         94 |          0 |         20 |        114 |
+| src\app\pages\alert                                                                                |          5 |        346 |         11 |         44 |        401 |
+| src\app\pages\avatar                                                                               |          5 |         73 |          0 |         22 |         95 |
+| src\app\pages\botones                                                                              |          5 |         51 |          0 |         18 |         69 |
+| src\app\pages\inicio                                                                               |          6 |        100 |          0 |         33 |        133 |
+| src\assets                                                                                         |          1 |          1 |          0 |          1 |          2 |
+| src\environments                                                                                   |          2 |          6 |         11 |          4 |         21 |
+| src\theme                                                                                          |          1 |        172 |         24 |         36 |        232 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                           | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\02Programacion\06Ionic5\3-componentes\angular.json                                              | JSON       |        107 |         81 |          0 |        188 |
+| d:\02Programacion\06Ionic5\3-componentes\e2e\protractor.conf.js                                    | JavaScript |         24 |          2 |          3 |         29 |
+| d:\02Programacion\06Ionic5\3-componentes\e2e\src\app.e2e-spec.ts                                   | TypeScript |         11 |          0 |          4 |         15 |
+| d:\02Programacion\06Ionic5\3-componentes\e2e\src\app.po.ts                                         | TypeScript |          9 |          0 |          3 |         12 |
+| d:\02Programacion\06Ionic5\3-componentes\e2e\tsconfig.json                                         | JSON       |         13 |          0 |          1 |         14 |
+| d:\02Programacion\06Ionic5\3-componentes\ionic.config.json                                         | JSON       |          5 |          0 |          1 |          6 |
+| d:\02Programacion\06Ionic5\3-componentes\karma.conf.js                                             | JavaScript |         28 |          2 |          2 |         32 |
+| d:\02Programacion\06Ionic5\3-componentes\package-lock.json                                         | JSON       |     13,835 |          0 |          1 |     13,836 |
+| d:\02Programacion\06Ionic5\3-componentes\package.json                                              | JSON       |         54 |          0 |          1 |         55 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\app-routing.module.ts                             | TypeScript |         36 |          0 |          3 |         39 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\app.component.html                                | HTML       |          3 |          0 |          1 |          4 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\app.component.scss                                | SCSS       |          0 |          0 |          1 |          1 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\app.component.spec.ts                             | TypeScript |         36 |          1 |         11 |         48 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\app.component.ts                                  | TypeScript |         24 |          0 |          4 |         28 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\app.module.ts                                     | TypeScript |         26 |          1 |          5 |         32 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\component\component.module.ts                     | TypeScript |         15 |          1 |          3 |         19 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\component\header\header.component.html            | HTML       |          8 |          0 |          1 |          9 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\component\header\header.component.scss            | SCSS       |          0 |          0 |          1 |          1 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\component\header\header.component.spec.ts         | TypeScript |         19 |          0 |          6 |         25 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\component\header\header.component.ts              | TypeScript |         11 |          0 |          6 |         17 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\action-sheet\action-sheet-routing.module.ts | TypeScript |         14 |          0 |          4 |         18 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\action-sheet\action-sheet.module.ts         | TypeScript |         18 |          0 |          5 |         23 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\action-sheet\action-sheet.page.html         | HTML       |          6 |          0 |          3 |          9 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\action-sheet\action-sheet.page.scss         | SCSS       |          0 |          0 |          1 |          1 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\action-sheet\action-sheet.page.ts           | TypeScript |         56 |          0 |          7 |         63 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\alert\alert-routing.module.ts               | TypeScript |         14 |          0 |          4 |         18 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\alert\alert.module.ts                       | TypeScript |         18 |          1 |          6 |         25 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\alert\alert.page.html                       | HTML       |         33 |          7 |         10 |         50 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\alert\alert.page.scss                       | SCSS       |          0 |          0 |          1 |          1 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\alert\alert.page.ts                         | TypeScript |        281 |          3 |         23 |        307 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\avatar\avatar-routing.module.ts             | TypeScript |         14 |          0 |          4 |         18 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\avatar\avatar.module.ts                     | TypeScript |         18 |          0 |          5 |         23 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\avatar\avatar.page.html                     | HTML       |         30 |          0 |          7 |         37 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\avatar\avatar.page.scss                     | SCSS       |          0 |          0 |          1 |          1 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\avatar\avatar.page.ts                       | TypeScript |         11 |          0 |          5 |         16 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\botones\botones-routing.module.ts           | TypeScript |         14 |          0 |          4 |         18 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\botones\botones.module.ts                   | TypeScript |         16 |          0 |          5 |         21 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\botones\botones.page.html                   | HTML       |         10 |          0 |          3 |         13 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\botones\botones.page.scss                   | SCSS       |          0 |          0 |          1 |          1 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\botones\botones.page.ts                     | TypeScript |         11 |          0 |          5 |         16 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\inicio\inicio-routing.module.ts             | TypeScript |         14 |          0 |          4 |         18 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\inicio\inicio.module.ts                     | TypeScript |         16 |          0 |          5 |         21 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\inicio\inicio.page.html                     | HTML       |         13 |          0 |         10 |         23 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\inicio\inicio.page.scss                     | SCSS       |          0 |          0 |          1 |          1 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\inicio\inicio.page.spec.ts                  | TypeScript |         19 |          0 |          6 |         25 |
+| d:\02Programacion\06Ionic5\3-componentes\src\app\pages\inicio\inicio.page.ts                       | TypeScript |         38 |          0 |          7 |         45 |
+| d:\02Programacion\06Ionic5\3-componentes\src\assets\shapes.svg                                     | XML        |          1 |          0 |          1 |          2 |
+| d:\02Programacion\06Ionic5\3-componentes\src\environments\environment.prod.ts                      | TypeScript |          3 |          0 |          1 |          4 |
+| d:\02Programacion\06Ionic5\3-componentes\src\environments\environment.ts                           | TypeScript |          3 |         11 |          3 |         17 |
+| d:\02Programacion\06Ionic5\3-componentes\src\global.scss                                           | SCSS       |         10 |         13 |          4 |         27 |
+| d:\02Programacion\06Ionic5\3-componentes\src\index.html                                            | HTML       |         18 |          1 |          8 |         27 |
+| d:\02Programacion\06Ionic5\3-componentes\src\main.ts                                               | TypeScript |          9 |          0 |          4 |         13 |
+| d:\02Programacion\06Ionic5\3-componentes\src\polyfills.ts                                          | TypeScript |          2 |         55 |         10 |         67 |
+| d:\02Programacion\06Ionic5\3-componentes\src\test.ts                                               | TypeScript |         13 |          4 |          4 |         21 |
+| d:\02Programacion\06Ionic5\3-componentes\src\theme\variables.scss                                  | SCSS       |        172 |         24 |         36 |        232 |
+| d:\02Programacion\06Ionic5\3-componentes\src\zone-flags.ts                                         | TypeScript |          1 |          4 |          1 |          6 |
+| d:\02Programacion\06Ionic5\3-componentes\tsconfig.app.json                                         | JSON       |         18 |          0 |          1 |         19 |
+| d:\02Programacion\06Ionic5\3-componentes\tsconfig.json                                             | JSON       |         23 |          0 |          0 |         23 |
+| d:\02Programacion\06Ionic5\3-componentes\tsconfig.spec.json                                        | JSON       |         18 |          0 |          0 |         18 |
+| d:\02Programacion\06Ionic5\3-componentes\tslint.json                                               | JSON       |        149 |          0 |          0 |        149 |
+| Total                                                                                              |            |     15,368 |        211 |        268 |     15,847 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

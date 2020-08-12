@@ -1,0 +1,22 @@
+<app-header name="Date & Time"></app-header>
+
+<ion-content>
+
+  <ion-list>
+
+    <ion-list-header>
+      <ion-label>Datos de Nacimiento</ion-label>
+    </ion-list-header>
+
+    <!-- Ojo con Moments.js -->
+    <ion-item>
+      <ion-label>Date</ion-label>
+      <ion-datetime
+        display-format="DD.MM.YYYY"
+        [ngModel]="nacimiento.toISOString()"
+        (ionChange)="muestraFecha( $event )">
+      </ion-datetime>
+    </ion-item>
+  </ion-list>
+
+</ion-content>
